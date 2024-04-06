@@ -3,7 +3,7 @@
 
 # Introduction
 
-I am a Sr.Full-Stack Developer with a profound interest in helping others getting into Cybersecurity.
+I am a Sr.Full-Stack Developer with a profound interest in helping others getting into Technology.
 
 # Objective
 
