@@ -25,7 +25,7 @@ I am a passionate and results-driven **SOC Analyst** with a keen eye for securit
 - Led compliance recertification efforts, demonstrating strong stakeholder engagement.
 
 ## 🎓 Education
-- **Security Blue Team Level 1 Certification
+- **Security Blue Team Level 1 Certification**
 - **Security+**: Equipped with the latest security knowledge.
 - **Year Up Cybersecurity Specialization**: Practical skills in Python, bug bounty hunting, and more.
 
