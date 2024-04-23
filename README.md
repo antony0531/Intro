@@ -1,24 +1,35 @@
-# Hi, I'm Antony
-<a href="https://www.linkedin.com/in/antony-sandoval" a>
+# Antony Sandoval
 
-# Introduction
+## About Me
+I am a passionate and results-driven **SOC Analyst** with experience in system log analysis, network monitoring, and incident response. My technical skills include Python, SQL, Linux, and security tools like Splunk and Wireshark.
 
-I am a Sr.Full-Stack Developer with a profound interest in helping others getting into Technology.
+## Experience
+### Washington Equity Funding Corp. (2023)
+- Spearheaded system log analysis and network traffic monitoring.
+- Implemented anti-virus software and conducted phishing email training.
+- Formulated and implemented a robust incident response strategy.
 
-# Objective
+### BNY Mellon (2021 - 2023)
+- Revamped Python scripts for data migration efficiency.
+- Coordinated vulnerability identification and mitigation efforts.
+- Diagnosed and resolved job failures using Informatica PowerCenter.
 
-I'm currently pivoting into Cybersecurity,with the goal of landing a role as a Security Operations Center (SOC) as a Tier 1 Analyst.  
-<!--
-**antony0531/antony0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BNP Paribas (2020 - 2021)
+- Conducted vulnerability scans on web applications.
+- Provided strategic insights for application security.
+- Led compliance recertification efforts.
 
-Here are some ideas to get you started:
+## Education
+- Security Blue Team Level 1 Certification (Security+)
+- Year Up Cybersecurity Specialization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, SQL, Linux, PowerShell, Splunk, Vim, Nmap, Wireshark
+- Git, S3, Airflow, Autopsy
+
+## Interests
+- Volunteering in Computers 4 People
+- Soccer, Football
+- Finding the best burger in NYC
+
+Connect with me on LinkedIn: Antony Sandoval
