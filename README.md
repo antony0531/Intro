@@ -1,5 +1,9 @@
 # Antony Sandoval
 
+<p align="center">
+  <img src="https://your-image-url-here.com" alt="Antony Sandoval" width="200" height="200">
+</p>
+
 ## 🚀 About Me
 I am a passionate and results-driven **SOC Analyst** with a keen eye for security threats. My expertise lies in system log analysis, network monitoring, and incident response. I thrive in dynamic environments and excel at translating complex technical concepts into actionable insights.
 
@@ -22,7 +26,7 @@ I am a passionate and results-driven **SOC Analyst** with a keen eye for securit
 
 ## 🎓 Education
 - **Security Blue Team Level 1 Certification
-- **Security+
+- **Security+**: Equipped with the latest security knowledge.
 - **Year Up Cybersecurity Specialization**: Practical skills in Python, bug bounty hunting, and more.
 
 ## 🔧 Skills
@@ -31,4 +35,4 @@ I am a passionate and results-driven **SOC Analyst** with a keen eye for securit
 - **Interests**: Volunteering, Soccer, NYC's best burgers
 
 ## 📫 Connect with me
-LinkedIn
+!LinkedIn
