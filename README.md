@@ -1,9 +1,5 @@
 # Antony Sandoval
 
-<p align="center">
-  <img src="https://your-image-url-here.com" alt="Antony Sandoval" width="200" height="200">
-</p>
-
 ## 🚀 About Me
 I am a passionate and results-driven **SOC Analyst** with a keen eye for security threats. My expertise lies in system log analysis, network monitoring, and incident response. I thrive in dynamic environments and excel at translating complex technical concepts into actionable insights.
 
