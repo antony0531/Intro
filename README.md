@@ -9,7 +9,7 @@ I am a passionate and results-driven **SOC Analyst** with a keen eye for securit
 
 ## 💼 Experience
 
-### Washington Equity Funding Corp. (2023)
+### Contracting (Present)
 - Spearheaded system log analysis and network traffic monitoring, uncovering and probing a minimum of 5 potential security incidents weekly.
 - Implemented anti-virus software, EDR tools, and firewalls, enhancing overall security vigilance.
 - Formulated and implemented a robust incident response strategy, reducing response times by 30%.
