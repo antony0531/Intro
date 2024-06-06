@@ -1,26 +1,28 @@
 # Antony Sandoval
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/antony-sandoval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/antony-sandoval/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/antony0531)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Antony.Sandoval0531@gmail.com)
 
-## Summary of Qualifications
+## 📄 Summary of Qualifications
 
-Extensive experience in designing, implementing, and managing email security solutions. Proficient in developing and implementing response plans for email security incidents, analyzing and mitigating threats. Knowledgeable in frameworks like MITRE ATT&CK, Lockheed Martin Cyber Kill Chain, and compliance standards.
+- Extensive experience in designing, implementing, and managing email security solutions.
+- Proficient in developing and implementing response plans for email security incidents, analyzing and mitigating threats.
+- Knowledgeable in frameworks like MITRE ATT&CK, Lockheed Martin Cyber Kill Chain, and compliance standards.
 
-## Areas of Expertise
+## 💡 Areas of Expertise
 
 - **Network Security Monitoring:** Wireshark, Nmap, Suricata, Snort
 - **SIEM:** Splunk, ELK Stack, Wazuh, Security Onion
 - **Digital Forensics:** Autopsy, Volatility, FTK Imager, KAPE
 - **Programming:** Python, PowerShell, SQL, HTML, CSS
 
-## Education
+## 🎓 Education
 
 - **Cybersecurity**  
   Year Up Tech Bootcamp, February 2021
 
-## Related Work Experience
+## 🛠️ Related Work Experience
 
 ### SOC Analyst  
 **B&B-Contracting**, May 2023 – Present
@@ -45,13 +47,25 @@ Extensive experience in designing, implementing, and managing email security sol
 - Provided strategic insights through weekly reports to the head of Application Security, driving proactive security measures and informed decision-making.
 - Collaborated with the CIAT compliance recertification for 5 mission-critical applications, demonstrating strong stakeholder engagement skills and ensuring regulatory compliance.
 
-## Certifications
+## 🏅 Certifications
 
 - ![Blue Team Level 1](https://img.shields.io/badge/Blue_Team_Level_1-Certified-brightgreen)  
   Certificate, April 2024
 
-## Contact
+## 📂 Project Showcase
 
-- **Location:** Union City, New Jersey
-- **GitHub:** [antony0531](https://github.com/antony0531)
-- **Email:** [Antony.Sandoval0531@gmail.com](mailto:Antony.Sandoval0531@gmail.com)
+### 🛡️ Cybersecurity Projects
+
+#### Project 1: **Advanced Network Monitoring System**
+- **Description:** Developed a comprehensive network monitoring system using Splunk and custom Python scripts for real-time threat detection.
+- **Technologies Used:** Python, Splunk, Wireshark
+- **Link:** [GitHub Repository](https://github.com/antony0531/advanced-network-monitoring)
+
+#### Project 2: **Automated Vulnerability Assessment Tool**
+- **Description:** Created an automated tool to perform regular vulnerability assessments and generate detailed reports.
+- **Technologies Used:** Python, Nmap, OWASP ZAP
+- **Link:** [GitHub Repository](https://github.com/antony0531/automated-vulnerability-assessment)
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
