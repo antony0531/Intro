@@ -52,20 +52,6 @@
 - ![Blue Team Level 1](https://img.shields.io/badge/Blue_Team_Level_1-Certified-brightgreen)  
   Certificate, April 2024
 
-## 📂 Project Showcase
-
-### 🛡️ Cybersecurity Projects
-
-#### Project 1: **Advanced Network Monitoring System**
-- **Description:** Developed a comprehensive network monitoring system using Splunk and custom Python scripts for real-time threat detection.
-- **Technologies Used:** Python, Splunk, Wireshark
-- **Link:** [GitHub Repository](https://github.com/antony0531/advanced-network-monitoring)
-
-#### Project 2: **Automated Vulnerability Assessment Tool**
-- **Description:** Created an automated tool to perform regular vulnerability assessments and generate detailed reports.
-- **Technologies Used:** Python, Nmap, OWASP ZAP
-- **Link:** [GitHub Repository](https://github.com/antony0531/automated-vulnerability-assessment)
-
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
