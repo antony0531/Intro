@@ -1,6 +1,6 @@
 # Antony Sandoval
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/antony0531/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/antony0531)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/antony0531)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Antony.Sandoval0531@gmail.com)
 
